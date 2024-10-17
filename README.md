@@ -4,4 +4,4 @@
 
 💾 My favorite subjects are microarchitecture design, embedded system design, hardware security and cryptography. I like using innovative software in my projects.
 
-📭 You can contact me by email at teo.biton@gmail.com.
+📭 You can contact me by email at tbiton@proton.me.
